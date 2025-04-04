@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", // Versão do ECMAScript alvo
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"], // Bibliotecas incluídas
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    /* Modo bundler */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Verificação de código */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["src"] // Arquivos incluídos na compilação
+}
