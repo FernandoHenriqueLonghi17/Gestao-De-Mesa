@@ -6,7 +6,7 @@ Sistema completo para gerenciamento de restaurantes, desenvolvido com React, Typ
 
 ![GestãoMesa Preview](https://github.com/user-attachments/assets/c0e38b26-914c-4e74-979a-a5f1e77b33f7)
 
-![GestãoMesa Preview(https://github.com/user-attachments/assets/9159e3c1-677f-4c40-920f-5c25d84da8b4)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/9159e3c1-677f-4c40-920f-5c25d84da8b4)
 
 ![GestãoMesa Preview](https://github.com/user-attachments/assets/06a0ba17-9ee7-4e3e-9e30-cb6fbcc6b4ba)
 
