@@ -2,15 +2,16 @@
 
 Sistema completo para gerenciamento de restaurantes, desenvolvido com React, TypeScript e Tailwind CSS, focado em proporcionar uma experiência eficiente para gestão de mesas, pedidos e controle financeiro.
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/f6f8e56f-9d15-48c9-a044-573f32a018e7)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/eb48cd62-b7dd-460e-a514-aa401967bbd1)
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/c0e38b26-914c-4e74-979a-a5f1e77b33f7)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/f95736c5-1b3c-4768-bd04-aa4420f27a9d)
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/9159e3c1-677f-4c40-920f-5c25d84da8b4)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/93ceffb2-fa70-43cf-bf67-5e7aa1d87720)
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/06a0ba17-9ee7-4e3e-9e30-cb6fbcc6b4ba)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/7c31eef5-2639-42a9-9a1e-778da63dcd20)
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/96f552ba-011c-44e0-8394-d7a8636d78cb)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/1bd01193-13e0-4243-ab94-5ddbddacf68d)
+
 ## 🚀 Funcionalidades
 
 ### Gestão de Mesas
