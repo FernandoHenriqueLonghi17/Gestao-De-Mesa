@@ -1,16 +1,16 @@
-# GestãoMesa - Sistema de Gerenciamento de Restaurante
+# Gestão de Mesa - Sistema de Gerenciamento de Restaurante
 
 Sistema completo para gerenciamento de restaurantes, desenvolvido com React, TypeScript e Tailwind CSS, focado em proporcionar uma experiência eficiente para gestão de mesas, pedidos e controle financeiro.
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/a0e023e9-b52a-4b19-8eef-9f9e05af4949)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/f6f8e56f-9d15-48c9-a044-573f32a018e7)
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/f1fc1cc2-d987-4ae1-b714-25e7323dc3de)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/c0e38b26-914c-4e74-979a-a5f1e77b33f7)
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/693a0a1a-f17a-4750-b2d6-e5b57852f1b6)
+![GestãoMesa Preview(https://github.com/user-attachments/assets/9159e3c1-677f-4c40-920f-5c25d84da8b4)
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/cc09e3c4-5860-41bd-b5e5-43bd5b5b4494)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/06a0ba17-9ee7-4e3e-9e30-cb6fbcc6b4ba)
 
-![GestãoMesa Preview](https://github.com/user-attachments/assets/8565aa52-0e7b-49ed-a079-f8e8cb629d89)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/96f552ba-011c-44e0-8394-d7a8636d78cb)
 ## 🚀 Funcionalidades
 
 ### Gestão de Mesas
