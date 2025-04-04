@@ -2,8 +2,15 @@
 
 Sistema completo para gerenciamento de restaurantes, desenvolvido com React, TypeScript e Tailwind CSS, focado em proporcionar uma experiência eficiente para gestão de mesas, pedidos e controle financeiro.
 
-![GestãoMesa Preview](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&auto=format&fit=crop&q=80)
+![GestãoMesa Preview](https://github.com/user-attachments/assets/a0e023e9-b52a-4b19-8eef-9f9e05af4949)
 
+![GestãoMesa Preview](https://github.com/user-attachments/assets/f1fc1cc2-d987-4ae1-b714-25e7323dc3de)
+
+![GestãoMesa Preview](https://github.com/user-attachments/assets/693a0a1a-f17a-4750-b2d6-e5b57852f1b6)
+
+![GestãoMesa Preview](https://github.com/user-attachments/assets/cc09e3c4-5860-41bd-b5e5-43bd5b5b4494)
+
+![GestãoMesa Preview](https://github.com/user-attachments/assets/8565aa52-0e7b-49ed-a079-f8e8cb629d89)
 ## 🚀 Funcionalidades
 
 ### Gestão de Mesas
